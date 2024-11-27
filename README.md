@@ -10,7 +10,6 @@ The blockchain is an innovative technology that overcomes these threats and allo
 
 Final Year Blockchain Project
 
-![Cryptographyand Blockchain Combination PrOJECT](https://user-images.githubusercontent.com/28294942/135728332-aeb851dd-e08e-4179-b664-96de6ce73733.png)
 
 
 Updates:
@@ -28,14 +27,5 @@ https://github.com/Vatshayan/Blockchain-and-Cryptography-Communication-System/bl
 
 ## How to Reach me :
 
-### Mail : vatshayan007@gmail.com 
-
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
-
-### Website : https://www.finalproject.in/
-
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-Mail/Message me for Projects Help 🙏🏻
-
+### Mail : vatshayan007@gmail.com
 Project is made by **me([Vatshayan](https://github.com/Vatshayan))**
